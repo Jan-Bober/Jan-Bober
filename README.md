@@ -1,6 +1,8 @@
 ### Hello there 👋
 ### General Kenobi 🤖
 
+
+I am open source fan and I'm working on many small projects
 <!--
 **Jan-Bober/Jan-Bober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
